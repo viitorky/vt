@@ -1,0 +1,14 @@
+body {
+    color :white;
+    background : black;
+    font-family: "Chakra Petch", sans-serif;
+}
+header {
+    border-bottom: solid 2px rgb(48, 8, 226);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(48, 8, 226)
+}
+h1 {
+    font-size: 40px;
+}
